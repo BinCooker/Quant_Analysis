@@ -6,6 +6,6 @@ This function will output a list of stocks for NDAQ/DOW/S&P benchmarks. The list
 Designed for stock analysis and picking
                   
 ## macro_downloader.py
-This modulus: 
-    1. download the fundamental data from Macrotrends
-    2. update the fscore based on downloaded data
+This modulus: \n
+1. download the fundamental data from Macrotrends\n
+2. update the fscore based on downloaded data
